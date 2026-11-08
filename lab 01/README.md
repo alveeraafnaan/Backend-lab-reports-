@@ -221,14 +221,8 @@ https://backend-lab-reports-bygd.onrender.com/
 
 ### Live Deployment URL
 
-**Deployment URL:** To be added after deployment.
+(https://backend-lab-reports-bygd.onrender.com/)
 
-Once deployed, the endpoints can be accessed using:
-
-- Home: `YOUR_RENDER_URL/`
-- About: `YOUR_RENDER_URL/about`
-- Time: `YOUR_RENDER_URL/time`
-- Error: `YOUR_RENDER_URL/unknown`
 
 ## ❗ Problems Faced and Solutions
 
