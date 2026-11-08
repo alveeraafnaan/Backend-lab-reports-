@@ -20,6 +20,24 @@ app.get("/about", (req, res) => {
     });
 });
 
+// Time route
+app.get("/time", (req, res) => {
+    const currentTime = new Date().toLocaleTimeString();
+
+    res.json({
+        message: "Current server time",
+        time: currentTime
+    });
+});
+
+// 404 route
+app.use((req, res) => {
+    res.status(404).json({
+        error: "404 Not Found",
+        message: "The requested route does not exist."
+    });
+});
+
 // Start the server
 app.listen(PORT, () => {
     console.log(`Server is running at http://localhost:${PORT}`);
