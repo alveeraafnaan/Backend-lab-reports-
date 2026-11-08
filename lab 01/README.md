@@ -198,7 +198,7 @@ The following screenshots demonstrate the working of the application.
 
 ## 🚀 Deployment on Render
 
-The application can be deployed using Render.
+https://backend-lab-reports-bygd.onrender.com/
 
 ### Deployment Steps
 
