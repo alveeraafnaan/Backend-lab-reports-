@@ -1,9 +1,7 @@
-
 # Backend Development Fundamentals
 
 ## About
-This repository contains my Backend Development Fundamentals
-lab assignments and practical implementations.
+This repository contains my Backend Development Fundamentals lab assignments and practical implementations.
 
 ## Technologies Used
 - Node.js
@@ -11,6 +9,8 @@ lab assignments and practical implementations.
 - SQLite
 - JavaScript
 - Git and GitHub
+- JWT Authentication
+- bcrypt
 
 ## Lab Assignments
 
@@ -22,4 +22,8 @@ SQLite Database and CRUD Operations
 
 ### Lab 03
 REST API, Query Parameters, Validation, and Debugging
+
+### Lab 04
+User Registration, Login, Password Hashing, and JWT Authentication
+
 
